@@ -1,4 +1,4 @@
-# NetworkPacketsSniffingApplication
+# Network Packets Sniffing Application (Tkinter/Scapy - Python)
 Using a Tkinter GUI to work with Scapy (a powerful interactive packet manipulation program). Sniffed packets are stored as a JSON file that can be saved to a specific path.
 
 Before running make sure that you  have installed NPCAP (https://npcap.com/).
